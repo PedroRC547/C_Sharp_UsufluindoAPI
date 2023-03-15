@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WW8DlngPYsp1Ijep12qxMsir2Ff5ksmo04ZbA5J2QtwCospxUcHJJVQOpktfKd5hXb9wretULAGjTc9OYa35PQ==",
+  "success": true,
+  "projectFilePath": "F:\\c_sharp\\ConsumindoApi\\ConsumindoApi\\ConsumindoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

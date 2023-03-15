@@ -1,0 +1,17 @@
+F:\c_sharp\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.exe
+F:\c_sharp\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.deps.json
+F:\c_sharp\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.runtimeconfig.json
+F:\c_sharp\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.dll
+F:\c_sharp\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.pdb
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.csproj.AssemblyReference.cache
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.AssemblyInfoInputs.cache
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.AssemblyInfo.cs
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.csproj.CoreCompileInputs.cache
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.dll
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\refint\ConsumindoApi.dll
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.pdb
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.genruntimeconfig.cache
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ref\ConsumindoApi.dll
+F:\c_sharp\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\c_sharp\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.csproj.CopyComplete
